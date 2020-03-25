@@ -24,12 +24,12 @@ DOMINIO EN EL DCA:
 proyecto08.dis.eafit.edu.co
 
 
-DOMINIO EN AMAZON EMPLEADO:
-
-ulur2020.ml
-
 
 IP EN EL DCA:
 
 192.168.10.227
 
+
+DOMINIO EN AMAZON EMPLEADO:
+
+ulur2020.ml
